@@ -1,0 +1,11 @@
+{
+ "name": "@boeing-sdk/bank-plugin-boeing-at",
+ "version": "1.0.0",
+ "main": "index.js",
+ "description": "",
+ "author": "",
+ "private": false,
+ "dependencies": {
+  "vue": "^2.6.10"
+ }
+}

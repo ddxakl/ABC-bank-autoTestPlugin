@@ -1,0 +1,8 @@
+{
+ "name": "@boeing-sdk/bank-plugin-ade-manager",
+ "version": "1.0.0",
+ "main": "index.js",
+ "description": "数据字典管理器",
+ "author": "",
+ "private": false
+}
